@@ -67,7 +67,7 @@ Every day:
 1. Clone the repository:
    ```bash
    git clone https://github.com/UseStateShivam/dsa-in-golang.git
-   cd dsa-in-golang
+   cd dsa-Golang-
    ```
 
 2. Navigate to the desired day's folder:
@@ -77,7 +77,7 @@ Every day:
 
 3. Run a specific solution:
    ```bash
-   go run question1.go
+   go run questionName.go
    ```
 
 ---
