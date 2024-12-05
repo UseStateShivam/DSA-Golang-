@@ -9,7 +9,7 @@ Welcome to the **DSA in Golang** repository! This is a personal project where I 
 The repository is organized as follows:
 
 ```
-dsa-in-golang/
+dsa-Golang-/
 │
 ├── day-1/
 │   ├── question1.go
@@ -77,7 +77,7 @@ Every day:
 
 3. Run a specific solution:
    ```bash
-   go run questionName.go
+   go run day-{n}/questionName.go
    ```
 
 ---
